@@ -1,7 +1,11 @@
 # Привет, я Наталья Игнатова.
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/твой_профиль](https://www.linkedin.com/in/natalia-ignatova-222aa688/))
+
+
 [hh.ru](https://hh.ru/resume/35c1a4f0ff0f80ecd90039ed1f365366507737) 
-[LinkedIn](https://www.linkedin.com/in/natalia-ignatova-222aa688/)
+
 
 Я начинающий аналитик данных с 4х-детним опытом в сфере управления IT проектам, ценю чёткость и структурность — умею наводить порядок в хаосе.  
 
