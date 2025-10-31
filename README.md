@@ -1,6 +1,6 @@
 # Привет, я Наталья Игнатова.
 
-[hh.ru] (https://hh.ru/resume/35c1a4f0ff0f80ecd90039ed1f365366507737) [LinkedIn] (https://www.linkedin.com/in/natalia-ignatova-222aa688/)
+ссылка: [hh.ru](https://hh.ru/resume/35c1a4f0ff0f80ecd90039ed1f365366507737) ссылка:[LinkedIn](https://www.linkedin.com/in/natalia-ignatova-222aa688/)
 
 Я начинающий аналитик данных с 4х-детним опытом в сфере управления IT проектам, ценю чёткость и структурность — умею наводить порядок в хаосе.  
 
