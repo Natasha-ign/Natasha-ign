@@ -39,7 +39,7 @@ Used tools: pandas, matplotlib, seaborn, sklearn, scipy
 #### ✉ Contacts
 
 * Email: natalisia37@gmail.com
-* Telegram: @natasha_ign
+* Telegram: https://t.me/natasha_ign
 
 
 
