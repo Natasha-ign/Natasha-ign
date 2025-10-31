@@ -1,6 +1,6 @@
 
 [![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](#english-version)
-[![Русский](https://img.shields.io/badge/Русский-red?style=for-the-badge)](#русская-версия)
+[![Русский](https://img.shields.io/badge/Русский-darkgray?style=for-the-badge)](#русская-версия)
 
 
 
