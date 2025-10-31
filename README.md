@@ -2,9 +2,13 @@
 [![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](#english-version)
 [![Русский](https://img.shields.io/badge/Русский-red?style=for-the-badge)](#русская-версия)
 
----
 
-#### English version
+
+---
+<p align="right">
+  <small>English version</small>
+</p>
+
 
 ## 🙋‍♀️ Hey, I am Natalia Ignatova.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/твой_профиль](https://www.linkedin.com/in/natalia-ignatova-222aa688/)) [![HH.ru](https://img.shields.io/badge/HH.ru-darkgray?style=for-the-badge&logo=briefcase&logoColor=white)]([https://hh.ru/resume/твой_профиль](https://hh.ru/resume/35c1a4f0ff0f80ecd90039ed1f365366507737))
@@ -32,7 +36,7 @@ Used tools: pandas, matplotlib, seaborn, sklearn, scipy
 * 2025 – Advanced Data Analyst Professional Program, Yandex Practicum
 * 2014 – Bachelor’s degree in Philological Education, Herzen State Pedagogical University
 
-#### ✉ Контакты
+#### ✉ Contacts
 
 * Email: natalisia37@gmail.com
 * Telegram: @natasha_ign
@@ -41,12 +45,12 @@ Used tools: pandas, matplotlib, seaborn, sklearn, scipy
 
 ---
 
-#### Русская версия
+<p align="right">
+</small>Русская версия</small>
+</p>
 
 
 ## 🙋‍♀️ Привет, я Наталья Игнатова.
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/твой_профиль](https://www.linkedin.com/in/natalia-ignatova-222aa688/)) [![HH.ru](https://img.shields.io/badge/HH.ru-darkgray?style=for-the-badge&logo=briefcase&logoColor=white)]([https://hh.ru/resume/твой_профиль](https://hh.ru/resume/35c1a4f0ff0f80ecd90039ed1f365366507737))
 
 Я начинающий аналитик данных с 4х-детним опытом в сфере управления IT проектам, ценю чёткость и структурность — умею наводить порядок в хаосе.  
