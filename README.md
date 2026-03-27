@@ -5,7 +5,7 @@
 
 
 ---
-### <a name="english-version"></a><p align="right"><small>English version</small></p>
+### <a name="english"></a><p align="right"><small>English version</small></p>
 
 ## 🙋‍♀️ Hey, I am Natalia Ignatova.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-ignatova-222aa688/) [![HH.ru](https://img.shields.io/badge/HH.ru-darkgray?style=for-the-badge&logo=briefcase&logoColor=white)](https://hh.ru/resume/35c1a4f0ff0f80ecd90039ed1f365366507737)
