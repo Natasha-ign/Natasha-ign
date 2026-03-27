@@ -14,11 +14,11 @@
 I’m an aspiring Data Analyst with 4 years of experience in IT project management.
 I value clarity and structure — I know how to bring order to chaos.
 
-#### 👩‍🔧 Skills
+#### 👩‍🔧 Hard Skills
 
 * Programming languages: Python, SQL
 * Python libraries: pandas, matplotlib, numpy
-* Tools: Tableau, Jupyter, MS SQL
+* Tools: Tableau, Jupyter, MS SQL, Airflow
 * Languages: English, French, Russian
 
 #### 👩‍💻  [Pet Projects] in English:
